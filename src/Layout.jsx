@@ -11,7 +11,7 @@ const Layout = () => {
   <Herosec/>
 <Enq/>
   <Footer/>
-  </>
+  </> 
   )
 }
 
